@@ -1,4 +1,4 @@
-# trabalho-final-de-micro
+# Trabalho finalde de micro controladores e micro processadores
 <p align = "center">
   <img src="https://github.com/miguelsrrobo/trabalho-final-de-micro/blob/main/ball-mill-operation.gif" width="200%" />
 </p>
